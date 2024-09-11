@@ -1,76 +1,37 @@
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
 # Evaluación Final Sprint Módulo 5
+## Sistema de Información para Empresa de Asesorías en Prevención de Riesgos
+# Integrantes:
+
+Ariel Alfaro https://github.com/NeoAriel-code/SprintModulo5
+
+
+Bastian Muñoz https://github.com/Bmunozdiaz/SprintFinalModulo5
+
+
+Bastian Espinosa https://github.com/bastignacio/SprintModulo05
+
+
+Joshua Montt https://github.com/JmonttV/sprint-modulo-5
+
+
+Nicolas Gajardo https://github.com/Meneazus/SprintFinal05
+
+
+## Índice
+
+- [1. CONTEXTO](#1-CONTEXTO)
+- [2. PROBLEMA](#2-PROBLEMA)
+- [3. SOLUCIÓN](#3-SOLUCIÓN)
+- [4. ESTRUCTURA DEL PROYECTO](#4-ESTRUCTURA_DEL_PROYECTO)
+- [5. REQUISITOS DEL SISTEMA](#5-REQUISITOS_DEL_SISTEMA)
+
+## 1. CONTEXTO
+
+En la última década, han aumentado los índices de accidentabilidad, especialmente en las
+empresas del rubro industrial, minero y construcción. Las cifras son alarmantes, a pesar de las
+leyes y normativas que obligan a las empresas a tomar todaslas medidas necesarias para proteger
+la vida y salud de los trabajadores. Para dar cumplimiento a la normativa y mantener ambientes
+de trabajo seguros, muchas empresas se ven en la obligación de contratar asesoría profesional,
 lo cual representa un costo elevado y fomenta la disminución o la no implementación de medidas
 necesarias para la seguridad. Muchas de las empresas que han optado por no invertir en asesoría
 preventiva, se ven expuestas a aplicación de multas de las entidades fiscalizadoras, gastos por
@@ -84,7 +45,6 @@ ejecutar en cada una de las empresas que son clientes de la compañía. Este ser
 pretende ofrecer una solución completa en prevención de riesgos para las empresas a un costo
 razonable, cumpliendo estrictamente todos los procesos necesarios para dar cumplimiento a la
 normativa vigente, mejorando los ambientes de trabajo, la productividad, contribuyendo a un
-ahorro económico.
 
 ## 2. PROBLEMA
 
